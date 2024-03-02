@@ -1,0 +1,47 @@
+.hidden {
+    display: none;
+}
+
+p{
+    margin-top: 100px;
+    font-size: 40px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+div{
+    text-align: center;
+    
+}
+
+
+#image-1{
+    height: 500px;
+}
+
+#image-3{ 
+    height: 300px;
+}
+
+.box-images{
+    align-items: center;
+    height: 300px;
+}
+
+#box-5{
+    height: 300px;
+}
+
+footer{
+    background-color: #1d192f;
+}
+
+
+
+
+
+
+
+
